@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="60049f78-03a5-46c4-a022-2388fd47b331" name="Default Changelist" comment="Second Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +112,7 @@
       <workItem from="1546220016638" duration="639000" />
       <workItem from="1612221154132" duration="954000" />
       <workItem from="1644210143069" duration="433000" />
-      <workItem from="1644210607758" duration="3432000" />
+      <workItem from="1644210607758" duration="4350000" />
     </task>
     <task id="LOCAL-00001" summary="Second Commit">
       <created>1612221263491</created>
